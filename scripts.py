@@ -40,9 +40,9 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>@cute_girl_rani</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>https://t.me/movie4ubotschannel</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@cute_girl_rani</a></b>
+├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>https://t.me/movie4ubotschannel</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
@@ -55,7 +55,7 @@ class Scripted(object):
     THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 ✅</i>"
     NO_THUMBNAIL_FOUND = "<i>𝐍𝐨 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐅𝐨𝐮𝐧𝐝 (Konsi Goals Chahiye)😔</i>"
     TRYING_TO_DOWNLOAD = "<i>Trying to Download....</i>"
-    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @TheTeleRoid</i></u>"
+    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @cute_girl_rani</i></u>"
     REPLY_TO_MEDIA = "<i>Reply to Media For Converting with Command /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please wait...</i>\n"
@@ -63,4 +63,4 @@ class Scripted(object):
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
     CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group https://t.me/movie4ubotschannel 😑</i>"
     START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
-    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/TeleRoid14'>[ Click Here]</a></b>"
+    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/movie4ubotschannel'>[ Click Here]</a></b>"
